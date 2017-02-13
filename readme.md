@@ -1,1 +1,1 @@
-this is a message
+this is a message. And the message is clear.
